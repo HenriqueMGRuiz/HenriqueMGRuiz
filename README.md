@@ -1,6 +1,6 @@
 ## Olá, eu sou o Henrique Matheus Gomes Ruiz
 
-- 🔭 Atualmente trabalhando como Trainee
+- 🔭 Atualmente trabalhando como Desenvolvedor de Software Junior.
 - 🌱 Estudando Front-End
 
 <div align="center">
